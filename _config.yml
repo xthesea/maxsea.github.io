@@ -63,7 +63,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 582abd54c2dcba52a72a   #生成的clientID
   clientSecret: ece5a2964020949f87e825afa7bf26b82b68ecfa  #同上
-  repo: xthesea.github.io    #仓库名称
+  repo: xthesea/maxsea.github.io    #仓库名称
   owner: xthesea    #github用户名
   admin: xthesea
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
